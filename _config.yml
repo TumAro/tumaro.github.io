@@ -1,0 +1,19 @@
+title: tumin.
+email: contact.tumins@example.com
+# description: >- 
+  
+# baseurl: ""
+# url: 
+# twitter_username: tumaro1001
+# github_username:  tumaro
+
+# Build settings
+theme: jekyll-theme-console
+# plugins:
+  
+
+header_pages:
+  - index.md
+  - about.md
+
+footer:  "hello there"
