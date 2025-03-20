@@ -1,19 +1,12 @@
 title: tumin.
-email: contact.tumins@example.com
-# description: >- 
-  
-# baseurl: ""
-# url: 
-# twitter_username: tumaro1001
-# github_username:  tumaro
+description: portfolio side
+baseurl: ""  # For GitHub Pages projects, use: "/repositoryname"
+url: ""      # Your domain or username.github.io
 
-# Build settings
-theme: jekyll-theme-console
-# plugins:
-  
+markdown: kramdown
+plugins:
+  - jekyll-feed
 
-header_pages:
-  - index.md
-  - about.md
-
-footer:  "hello there"
+github_username: tumaro
+twitter_username: tumaro1001
+email: contact.tumins@gmail.com

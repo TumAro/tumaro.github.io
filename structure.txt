@@ -1,0 +1,17 @@
+portfolio-site/
+├── _config.yml           # Jekyll configuration
+├── _layouts/             # Templates
+│   ├── default.html      # Main layout
+│   └── home.html         # Homepage layout
+├── assets/
+│   ├── css/
+│   │   └── style.css     # Main styles
+│   └── images/
+│       └── profile.jpg   # Your photo
+├── _posts/               # Blog posts
+│   └── yyyy-mm-dd-title.md
+├── pages/                # Page content
+│   ├── index.md          # Home page (/me)
+│   ├── life.md           # Life page
+│   ├── blog.md           # Blog listing
+│   └── projects.md       # Projects page

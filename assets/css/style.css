@@ -1,0 +1,126 @@
+/* Base styles */
+body {
+  font-family: monospace;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Navigation */
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  justify-content: flex-end;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed #000;
+  margin: 10px 0;
+}
+
+/* Typography */
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* Links */
+a {
+  color: #000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Home page layout */
+.home-layout {
+  display: flex;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.home-content {
+  flex: 1;
+  max-width: 60%;
+}
+
+.profile-image {
+  width: 40%;
+  max-width: 400px;
+}
+
+.profile-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.contact {
+  margin-top: 60px;
+}
+
+/* Blog list */
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-item {
+  margin-bottom: 20px;
+}
+
+.post-date {
+  color: #666;
+  font-size: 14px;
+}
+
+/* Projects */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.project-card {
+  border: 1px solid #eee;
+  padding: 15px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .home-layout {
+    flex-direction: column;
+  }
+  
+  .profile-image {
+    margin-top: 30px;
+  }
+}

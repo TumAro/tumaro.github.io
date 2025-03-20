@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">/me</a></li>
+          <li><a href="{{ '/life' | relative_url }}">/life</a></li>
+          <li><a href="{{ '/blog' | relative_url }}">/blog</a></li>
+          <li><a href="{{ '/projects' | relative_url }}">/projects</a></li>
+        </ul>
+      </nav>
+      <hr>
+    </header>
+
+    <main class="home-layout">
+      <div class="profile-image">
+        <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="{{ site.title }}">
+      </div>
+      
+      <div class="home-content">
+        {{ content }}
+        
+        <div class="contact">
+          <p><strong>Contact me at: </strong>
+            <a href="mailto:contact.tumins@gmail.com" target="_blank">mail</a>, 
+            <a href="https://twitter.com/tumaro1001" target="_blank">twitter</a>, 
+            <a href="https://github.com/tumaro" target="_blank">github</a>.
+          </p>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <hr>
+    </footer>
+  </div>
+</body>
+</html>
