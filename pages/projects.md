@@ -6,12 +6,7 @@ permalink: /projects/
 
 # Projects
 
-## Project Name
-Description of the project
-
-[GitHub](https://github.com/yourusername/project)
-
-## Another Project
-Description of another project
-
-[GitHub](https://github.com/yourusername/another-project)
+- 100 Days of Robotics (ongoing) -> [#100DaysofRobotics](100dor.md)
+- Flappy Birth with NEAT -> [GitHub](https://github.com/TumAro/Flappy-Bird-with-NEAT)
+- TicTacToe with Min-Max -> [GitHub](https://github.com/TumAro/Tic-Tac-Toe-with-Min-max)
+- Facial Expression Recognition Classifier -> [GitHub](https://github.com/TumAro/FER-Pytorch)
