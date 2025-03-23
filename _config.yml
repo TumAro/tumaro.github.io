@@ -3,9 +3,7 @@ description: portfolio sitede
 baseurl: ""  # For GitHub Pages projects, use: "/repositoryname"
 url: ""      # Your domain or username.github.io
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: redcarpet
 
 plugins:
   - jekyll-feed
