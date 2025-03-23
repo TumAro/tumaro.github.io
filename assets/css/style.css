@@ -53,12 +53,13 @@ p {
 
 /* Links */
 a {
-  color: #000;
+  color: #454545;
+  font-weight: bold;
 }
 
 a:hover {
+  color: #626262;
   text-decoration: underline;
-  color: hotpink;
 }
 
 
