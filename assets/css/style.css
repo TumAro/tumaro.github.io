@@ -58,7 +58,9 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: hotpink;
 }
+
 
 /* Home page layout */
 .home-layout {
