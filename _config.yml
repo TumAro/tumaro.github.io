@@ -1,7 +1,9 @@
 title: tumin.
-description: portfolio side
+description: portfolio sitede
 baseurl: ""  # For GitHub Pages projects, use: "/repositoryname"
 url: ""      # Your domain or username.github.io
+
+include: ["images"]
 
 markdown: kramdown
 plugins:
