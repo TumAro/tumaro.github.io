@@ -7,6 +7,7 @@ permalink: /resources/
 # Resources
 
 I decided it is about time to stop resource hoarding and stop to the mindset of gate keeping and share the best of the best resources I ever came by.
+ALL of the stuff below are based on my thought process which I believe that learning by doing, censory incentives to stay motivated and learning just enough to be able to do the actual stuff stead of doing a 6 months course.
 
 I will be biased in making the list and would aim at all the Neuro Divergent ambitious people who could do better with more dopamine indecuing interactive lessons unlike plain text documentations and text books, also on they way make some cool projects.
 
@@ -32,14 +33,17 @@ P.s. not all the stuff listed below are guaranteed to be applicable to everyone 
 
 ### Coding
 1. [Exercism](https://exercism.org/) - Coding practice progressive difficulty
-2. [The Odin Project](https://www.theodinproject.com/paths) - Project-based web development with vanilla stack
+2. [FreeCodeCamp for Web]([https://www.theodinproject.com/paths](https://www.freecodecamp.org/learn/2022/responsive-web-design/)) - Project-based web development with vanilla stack
 3. [The Coding Train](www.youtube.com/@TheCodingTrain) - Everything creative programming
+4. [Code360 DSA](https://www.naukri.com/code360/guided-paths/data-structures-algorithms-new) - Assumes you know nothing about DSA and teaches from 0 using with hands on codes and non boring quizzes and code tests from leetcode!
 
 ### AI
 1. [Kaggle Learn](https://www.kaggle.com/learn/) - Interactive data science tutorials
-2. [Jovian](https://jovian.com/) - Interactice 0 to Hero AI courses with certifications
-3. [FastAI](https://course.fast.ai/) - No-nonsense deep learning courses that get you coding models fast.
-4. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) -  Reinforcement learning curriculum
+2. [Analytics Vidhya's ML course](https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners) - This course teaches just enough bare minimum to start implementing for projects on your own instead of being in the tutorial hell.
+3. [DeepML](https://www.deep-ml.com/problems) - Interactive ML, DL, etc. problem quizzes.
+4. [Jovian](https://jovian.com/) - Interactice 0 to Hero AI courses with certifications
+5. [FastAI](https://course.fast.ai/) - No-nonsense deep learning courses that get you coding models fast.
+6. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) -  Reinforcement learning curriculum.
 
 ### Cyber Security
 1. [Cryptopals](https://cryptopals.com/) - Hands-on crypto challenges that teach you encryption by doing.
