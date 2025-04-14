@@ -50,9 +50,10 @@ P.s. not all the stuff listed below are guaranteed to be applicable to everyone 
 2. [TryHackMe](https://tryhackme.com/hacktivities) - Real life based cybersecurity hands-on puzzles
 
 ### Robotics
-1. [Ultimate Electronics](https://ultimateelectronicsbook.com/) – Real circuits and projects that demystify hardware for good.
-2. [The Construst](https://www.theconstruct.ai/) - Practical robotics challanges and theory in python and ROS
-3. [Peter Corke's Robot Academy](https://robotacademy.net.au/) - Robotics theory in very simplified with ELI5 visuals
+1. [#100DaysofRobotics](https://tumaro.github.io/projects/100dor) - My robotics learning roadmap for anybody with as minimum as only python knowledge to be able to study and learn everything robotics without FOMO from the trends.
+2. [Ultimate Electronics](https://ultimateelectronicsbook.com/) – Real circuits and projects that demystify hardware for good.
+3. [The Construst](https://www.theconstruct.ai/) - Practical robotics challanges and theory in python and ROS
+4. [Peter Corke's Robot Academy](https://robotacademy.net.au/) - Robotics theory in very simplified with ELI5 visuals
 
 ### Awesome Sites
 [Build your own X](https://build-your-own-x.vercel.app/), [One Sem is all you need](https://onesemester.tech/)
