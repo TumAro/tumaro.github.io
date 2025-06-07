@@ -6,7 +6,7 @@ permalink: /life/
 
 # My Life
 
-Write about your personal journey, experiences, and interests here.
+My personal life history and such!
 
 ## Experience
 - **Hi-Tech Animation Studio** - Trainee IT Officer - 2025 -> ongoing
